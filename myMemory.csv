@@ -2,6 +2,9 @@ Help,I can help you with  TPV and Active Metrics for yesterday  Last quarter 
 List,I can list the  TPV and Active Metrics for yesterday  Last quarter  YoY and Peak Holiday Volume,12/12/2017 
 Tell,I can tell you the  TPV and Active Metrics for yesterday  Last quarter  YoY and Peak Holiday Volume,12/12/2017 
 Health,All the Enterprise  and the Data Lake Servers have been performing normally except for Slow Response Time from Jackal,12/12/2017 
-Address,This is Personal information that cannot be shared ,12/12/2017 Debit Card,This is classified data and cannot be shared ,12/12/2017
+Address,This is Personal information that cannot be shared ,12/12/2017 
+Debit Card,This is classified data and cannot be shared ,12/12/2017
 TPV,The TPV for Yesterday is $10M,12/12/2017 
-Actives,There were around 1Million activations yesterday ,12/12/2017 
+Actives,As of yesterday there were 77M active users in our system ,12/12/2017 
+Activations,There were around 1Million activations yesterday ,12/12/2017 
+TPV,The TPV for last quarter was $3B,12/12/2017 
